@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7pKJtvQdzdCD7aiQjhN+9ikU05PhWI/izaX5MrQumkM2Zd6qFjrxTibx7Ofey6c5wa5eFKBN85i9m76mXd/kFQ==",
+  "success": true,
+  "projectFilePath": "/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/3_DataTypeAndVariablesChallenge.csproj",
+  "expectedPackageFiles": [
+    "/Users/osaiyen/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/osaiyen/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/osaiyen/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.21/microsoft.netcore.app.host.osx-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

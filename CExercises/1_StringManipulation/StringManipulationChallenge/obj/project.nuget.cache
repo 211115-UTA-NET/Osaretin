@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wz/yiJJG1UBW96DVYIRIDIv7wC09IBEA3xS20mUZLbHMium+m/y3M7x5IJSG7ZNZPOm+dGKvLqhLNH1t5uiVPw==",
+  "success": true,
+  "projectFilePath": "/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/1_StringManipulation/StringManipulationChallenge/StringManipulationChallenge.csproj",
+  "expectedPackageFiles": [
+    "/Users/osaiyen/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/osaiyen/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/osaiyen/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.21/microsoft.netcore.app.host.osx-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

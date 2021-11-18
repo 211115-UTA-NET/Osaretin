@@ -1,0 +1,14 @@
+/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/obj/Debug/netcoreapp3.1/3_DataTypeAndVariablesChallenge.csproj.AssemblyReference.cache
+/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/obj/Debug/netcoreapp3.1/3_DataTypeAndVariablesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/obj/Debug/netcoreapp3.1/3_DataTypeAndVariablesChallenge.AssemblyInfoInputs.cache
+/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/obj/Debug/netcoreapp3.1/3_DataTypeAndVariablesChallenge.AssemblyInfo.cs
+/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/obj/Debug/netcoreapp3.1/3_DataTypeAndVariablesChallenge.csproj.CoreCompileInputs.cache
+/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/bin/Debug/netcoreapp3.1/3_DataTypeAndVariablesChallenge
+/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/bin/Debug/netcoreapp3.1/3_DataTypeAndVariablesChallenge.deps.json
+/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/bin/Debug/netcoreapp3.1/3_DataTypeAndVariablesChallenge.runtimeconfig.json
+/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/bin/Debug/netcoreapp3.1/3_DataTypeAndVariablesChallenge.runtimeconfig.dev.json
+/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/bin/Debug/netcoreapp3.1/3_DataTypeAndVariablesChallenge.dll
+/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/bin/Debug/netcoreapp3.1/3_DataTypeAndVariablesChallenge.pdb
+/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/obj/Debug/netcoreapp3.1/3_DataTypeAndVariablesChallenge.dll
+/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/obj/Debug/netcoreapp3.1/3_DataTypeAndVariablesChallenge.pdb
+/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/obj/Debug/netcoreapp3.1/3_DataTypeAndVariablesChallenge.genruntimeconfig.cache
