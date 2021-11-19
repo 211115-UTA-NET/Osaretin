@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/1_StringManipulation/StringManipulationChallenge/StringManipulationChallenge.csproj": {}
+    "/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/StringManipulationChallenge.csproj": {}
   },
   "projects": {
-    "/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/1_StringManipulation/StringManipulationChallenge/StringManipulationChallenge.csproj": {
+    "/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/StringManipulationChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/1_StringManipulation/StringManipulationChallenge/StringManipulationChallenge.csproj",
+        "projectUniqueName": "/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/StringManipulationChallenge.csproj",
         "projectName": "StringManipulationChallenge",
-        "projectPath": "/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/1_StringManipulation/StringManipulationChallenge/StringManipulationChallenge.csproj",
+        "projectPath": "/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/StringManipulationChallenge.csproj",
         "packagesPath": "/Users/osaiyen/.nuget/packages/",
-        "outputPath": "/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/1_StringManipulation/StringManipulationChallenge/obj/",
+        "outputPath": "/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/osaiyen/.nuget/NuGet/NuGet.Config"

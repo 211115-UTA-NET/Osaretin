@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/3_DataTypeAndVariablesChallenge.csproj": {}
+    "/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/3_DataTypeAndVariablesChallenge.csproj": {}
   },
   "projects": {
-    "/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/3_DataTypeAndVariablesChallenge.csproj": {
+    "/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/3_DataTypeAndVariablesChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/3_DataTypeAndVariablesChallenge.csproj",
+        "projectUniqueName": "/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/3_DataTypeAndVariablesChallenge.csproj",
         "projectName": "3_DataTypeAndVariablesChallenge",
-        "projectPath": "/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/3_DataTypeAndVariablesChallenge.csproj",
+        "projectPath": "/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/3_DataTypeAndVariablesChallenge.csproj",
         "packagesPath": "/Users/osaiyen/.nuget/packages/",
-        "outputPath": "/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/obj/",
+        "outputPath": "/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/osaiyen/.nuget/NuGet/NuGet.Config"

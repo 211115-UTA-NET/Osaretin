@@ -4,8 +4,8 @@ namespace _3_DataTypeAndVariablesChallenge
 {
     public class Program
     {
-      public static void Main(string[] args)
-      {
+        public static void Main(string[] args)
+        {
 
             byte myByte = 100;
 
@@ -35,24 +35,29 @@ namespace _3_DataTypeAndVariablesChallenge
             string val1 = "I control text";
             string val2 = "50";
 
-             conStrToInt(val1, val2);
+            Console.WriteLine(val1);
+            Console.WriteLine(Text2Num(val2));
 
-        
+
         }
 
 
-        public static void conStrToInt(string val1, string val2)
+
+        public static int Text2Num(string numText)
         {
-            int number = Int32.Parse(val2);
+            try
+            {
+                int number = 0;
 
-            bool successfullyParsed = int.TryParse(val1, out number);
+                int.TryParse(numText, out number);
 
-            Console.WriteLine(successfullyParsed);
+                // Console.WriteLine(successfullyParsed);
+                return number;
+            }
+            catch
+            {
+                throw new NotImplementedException();
+            }
         }
-
-      public static int Text2Num(string numText)
-      {
-        throw new NotImplementedException();
-      }
     }
 }

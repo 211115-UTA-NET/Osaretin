@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7pKJtvQdzdCD7aiQjhN+9ikU05PhWI/izaX5MrQumkM2Zd6qFjrxTibx7Ofey6c5wa5eFKBN85i9m76mXd/kFQ==",
+  "dgSpecHash": "opW3lO74/sPtMB0Jcpx1+rd7qkTrX/8QTY1WP9UOp1Cov3/5ieUvt5g8SoF2MGqJhGryZ7B/ftQEQVsCJ8i/TQ==",
   "success": true,
-  "projectFilePath": "/Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/3_DataTypeAndVariablesChallenge.csproj",
+  "projectFilePath": "/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/3_DataTypeAndVariables/3_DataTypeAndVariablesChallenge-StudentCopy/3_DataTypeAndVariablesChallenge.csproj",
   "expectedPackageFiles": [
     "/Users/osaiyen/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "/Users/osaiyen/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",

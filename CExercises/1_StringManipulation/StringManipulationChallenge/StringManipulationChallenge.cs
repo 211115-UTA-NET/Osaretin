@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace StringManipulationChallenge
 {
@@ -30,28 +30,31 @@ namespace StringManipulationChallenge
             Console.WriteLine("Please enter a number LESS THAN the length of your string and press enter");
             intVar = int.Parse(Console.ReadLine());
 
+            Console.WriteLine("Uppercase "+StringToUpper(strVar));
+            Console.WriteLine("Lowercase  " + StringToLower(strVar));
+            Console.WriteLine("Trim " + StringTrim(strVar));
 
-           // StringSubstring(strVar, intVar);
+            Console.WriteLine("String lenght " + StringSubstring(strVar, intVar));
 
             char charVar;
             Console.WriteLine("For which character should I search in your original message?");
 
 
             string input = Console.ReadLine();
-            
-             charVar = input[0];
+            charVar = input[0];
 
-
-           SearchChar(strVar, charVar);
+             
+            Console.WriteLine("index at " + SearchChar(strVar, charVar));
 
 
             Console.WriteLine("Enter First Name");
-            string fName = Console.ReadLine();
+             fName = Console.ReadLine();
 
             Console.WriteLine("Enter Last Name");
-            string lName = Console.ReadLine();
+             lName = Console.ReadLine();
 
-            ConcatNames(fName, lName);
+            Console.WriteLine("Concat " + ConcatNames(fName, lName));
+           
 
         }
 
@@ -60,8 +63,16 @@ namespace StringManipulationChallenge
         // 1) change the string to all upper case, 
         // 2) print the result to the console and 
         // 3) return the new string.
-        public static string StringToUpper(string x){
-            throw new NotImplementedException("StringToUpper method not implemented.");
+        public static string StringToUpper(string x)
+        {
+            try
+            {
+                return x.ToUpper();
+            }
+            catch
+            {
+                throw new NotImplementedException("StringToUpper method not implemented.");
+            }
         }
 
         // This method has one string parameter. 
@@ -69,45 +80,90 @@ namespace StringManipulationChallenge
         // 1) change the string to all lower case, 
         // 2) print the result to the console and 
         // 3) return the new string.        
-        public static string StringToLower(string x){
-            throw new NotImplementedException("StringToUpper method not implemented.");
+        public static string StringToLower(string x)
+        {
 
+            try
+            {
+
+                return x.ToLower();
+            }
+            catch
+            {
+                throw new NotImplementedException("StringToUpper method not implemented.");
+            }
         }
-        
+
         // This method has one string parameter. 
         // It will:
         // 1) trim the whitespace from before and after the string, 
         // 2) print the result to the console and 
         // 3) return the new string.
-        public static string StringTrim(string x){
-            throw new NotImplementedException("StringTrim method not implemented.");
+        public static string StringTrim(string x)
+        {
 
+            try
+            {
+
+                return x.Trim();
+            }
+            catch
+            {
+                throw new NotImplementedException("StringTrim method not implemented.");
+            }
         }
-        
+
         // This method has two parameters, one string and one integer. 
         // It will:
         // 1) get the substring based on the integer received, 
         // 2) print the result to the console and 
         // 3) return the new string.
-        public static string StringSubstring(string x, int elementNum){
-            throw new NotImplementedException("StringSubstring method not implemented.");
-
+        public static string StringSubstring(string x, int elementNum)
+        {
+            try
+            {
+                int len = x.Length;
+                return len.ToString();
+            }
+            catch
+            {
+                throw new NotImplementedException("StringSubstring method not implemented.");
+            }
         }
 
         // This method has two parameters, one string and one char.
         // It will:
         // 1) search the string parameter for the char parameter
         // 2) return the index of the char.
-        public static int SearchChar(string userInputString, char x){
-            throw new NotImplementedException("SearchChar method not implemented.");
+        public static int SearchChar(string userInputString, char x)
+        {
+            try
+            {
+                int indx = userInputString.IndexOf(x);
+
+                return indx;
+            }
+            catch
+            {
+                throw new NotImplementedException("SearchChar method not implemented.");
+            }
         }
 
         // This method has two string parameters.
         // It will:
         // 1) concatenate the two strings with a space between them.
         // 2) return the new string.
-        public static string ConcatNames(string fName, string lName){
-            throw new NotImplementedException("ConcatNames method not implemented.");
+        public static string ConcatNames(string fName, string lName)
+        {
+
+            try
+            {
+                return fName + " " + lName;
+            }
+            catch
+            {
+                throw new NotImplementedException("ConcatNames method not implemented.");
+            }
         }
 
 

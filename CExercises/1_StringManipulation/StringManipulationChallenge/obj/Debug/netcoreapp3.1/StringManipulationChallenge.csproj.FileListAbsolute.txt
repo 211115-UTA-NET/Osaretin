@@ -52,3 +52,17 @@ C:/Users/MarkC/OneDrive - revature.com/LOCAL_BatchTrainingDocsAndTips/CsharpTuto
 /Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/1_StringManipulation/StringManipulationChallenge/obj/Debug/netcoreapp3.1/StringManipulationChallenge.dll
 /Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/1_StringManipulation/StringManipulationChallenge/obj/Debug/netcoreapp3.1/StringManipulationChallenge.pdb
 /Users/osaiyen/Desktop/tcode/trainer-code-main/wk1/CExercises/1_StringManipulation/StringManipulationChallenge/obj/Debug/netcoreapp3.1/StringManipulationChallenge.genruntimeconfig.cache
+/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/obj/Debug/netcoreapp3.1/StringManipulationChallenge.csproj.AssemblyReference.cache
+/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/obj/Debug/netcoreapp3.1/StringManipulationChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/obj/Debug/netcoreapp3.1/StringManipulationChallenge.AssemblyInfoInputs.cache
+/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/obj/Debug/netcoreapp3.1/StringManipulationChallenge.AssemblyInfo.cs
+/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/obj/Debug/netcoreapp3.1/StringManipulationChallenge.csproj.CoreCompileInputs.cache
+/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/obj/Debug/netcoreapp3.1/StringManipulationChallenge.dll
+/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/obj/Debug/netcoreapp3.1/StringManipulationChallenge.pdb
+/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/bin/Debug/netcoreapp3.1/StringManipulationChallenge
+/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/bin/Debug/netcoreapp3.1/StringManipulationChallenge.deps.json
+/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/bin/Debug/netcoreapp3.1/StringManipulationChallenge.runtimeconfig.json
+/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/bin/Debug/netcoreapp3.1/StringManipulationChallenge.runtimeconfig.dev.json
+/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/bin/Debug/netcoreapp3.1/StringManipulationChallenge.dll
+/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/bin/Debug/netcoreapp3.1/StringManipulationChallenge.pdb
+/Users/osaiyen/Desktop/gitFolder/class/Osaretin/CExercises/1_StringManipulation/StringManipulationChallenge/obj/Debug/netcoreapp3.1/StringManipulationChallenge.genruntimeconfig.cache
