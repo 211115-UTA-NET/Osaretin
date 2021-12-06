@@ -1,0 +1,14 @@
+/Users/osaiyen/Desktop/Osarein/AbstractClassesChallenge/bin/Debug/netcoreapp3.1/AbstractClassesChallenge
+/Users/osaiyen/Desktop/Osarein/AbstractClassesChallenge/bin/Debug/netcoreapp3.1/AbstractClassesChallenge.deps.json
+/Users/osaiyen/Desktop/Osarein/AbstractClassesChallenge/bin/Debug/netcoreapp3.1/AbstractClassesChallenge.runtimeconfig.json
+/Users/osaiyen/Desktop/Osarein/AbstractClassesChallenge/bin/Debug/netcoreapp3.1/AbstractClassesChallenge.runtimeconfig.dev.json
+/Users/osaiyen/Desktop/Osarein/AbstractClassesChallenge/bin/Debug/netcoreapp3.1/AbstractClassesChallenge.dll
+/Users/osaiyen/Desktop/Osarein/AbstractClassesChallenge/bin/Debug/netcoreapp3.1/AbstractClassesChallenge.pdb
+/Users/osaiyen/Desktop/Osarein/AbstractClassesChallenge/obj/Debug/netcoreapp3.1/AbstractClassesChallenge.csproj.AssemblyReference.cache
+/Users/osaiyen/Desktop/Osarein/AbstractClassesChallenge/obj/Debug/netcoreapp3.1/AbstractClassesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osaiyen/Desktop/Osarein/AbstractClassesChallenge/obj/Debug/netcoreapp3.1/AbstractClassesChallenge.AssemblyInfoInputs.cache
+/Users/osaiyen/Desktop/Osarein/AbstractClassesChallenge/obj/Debug/netcoreapp3.1/AbstractClassesChallenge.AssemblyInfo.cs
+/Users/osaiyen/Desktop/Osarein/AbstractClassesChallenge/obj/Debug/netcoreapp3.1/AbstractClassesChallenge.csproj.CoreCompileInputs.cache
+/Users/osaiyen/Desktop/Osarein/AbstractClassesChallenge/obj/Debug/netcoreapp3.1/AbstractClassesChallenge.dll
+/Users/osaiyen/Desktop/Osarein/AbstractClassesChallenge/obj/Debug/netcoreapp3.1/AbstractClassesChallenge.pdb
+/Users/osaiyen/Desktop/Osarein/AbstractClassesChallenge/obj/Debug/netcoreapp3.1/AbstractClassesChallenge.genruntimeconfig.cache
