@@ -67,7 +67,15 @@ namespace RockPaperScissorsApp.App
 
             }
 
-            string summary = game.Summary;
+            string summary = "";
+            if (numOfPlayer == 1)
+            {
+                 summary = game.Summary;
+            }
+            else if (numOfPlayer == 2)
+                 summary = game2.Summary;
+
+
             Console.WriteLine(summary);
         }
     }

@@ -16,7 +16,7 @@ namespace RockPaperScissorsApp.App
             get
             {
                 if (numofplayer == 1)
-                return Player + " Played "+gamecount+ " won "+gameswon +" and lost "+gameLost;
+                return Player + " Played "+gamecount+ " game and won "+gameswon +" and lost "+gameLost;
                 else
                     return Player +" and "+Player2 + " Played " + gamecount + " Games. " + Player + " won "+gameswon + " and "+Player2 +" won "+ gameLost+ " games ";
 
