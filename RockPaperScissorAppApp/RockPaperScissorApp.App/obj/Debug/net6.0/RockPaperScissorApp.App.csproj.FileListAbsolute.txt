@@ -1,0 +1,15 @@
+/Users/osaiyen/Projects/RockPaperScissorAppApp/RockPaperScissorApp.App/bin/Debug/net6.0/RockPaperScissorApp.App
+/Users/osaiyen/Projects/RockPaperScissorAppApp/RockPaperScissorApp.App/bin/Debug/net6.0/RockPaperScissorApp.App.deps.json
+/Users/osaiyen/Projects/RockPaperScissorAppApp/RockPaperScissorApp.App/bin/Debug/net6.0/RockPaperScissorApp.App.runtimeconfig.json
+/Users/osaiyen/Projects/RockPaperScissorAppApp/RockPaperScissorApp.App/bin/Debug/net6.0/RockPaperScissorApp.App.dll
+/Users/osaiyen/Projects/RockPaperScissorAppApp/RockPaperScissorApp.App/bin/Debug/net6.0/ref/RockPaperScissorApp.App.dll
+/Users/osaiyen/Projects/RockPaperScissorAppApp/RockPaperScissorApp.App/bin/Debug/net6.0/RockPaperScissorApp.App.pdb
+/Users/osaiyen/Projects/RockPaperScissorAppApp/RockPaperScissorApp.App/obj/Debug/net6.0/RockPaperScissorApp.App.csproj.AssemblyReference.cache
+/Users/osaiyen/Projects/RockPaperScissorAppApp/RockPaperScissorApp.App/obj/Debug/net6.0/RockPaperScissorApp.App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osaiyen/Projects/RockPaperScissorAppApp/RockPaperScissorApp.App/obj/Debug/net6.0/RockPaperScissorApp.App.AssemblyInfoInputs.cache
+/Users/osaiyen/Projects/RockPaperScissorAppApp/RockPaperScissorApp.App/obj/Debug/net6.0/RockPaperScissorApp.App.AssemblyInfo.cs
+/Users/osaiyen/Projects/RockPaperScissorAppApp/RockPaperScissorApp.App/obj/Debug/net6.0/RockPaperScissorApp.App.csproj.CoreCompileInputs.cache
+/Users/osaiyen/Projects/RockPaperScissorAppApp/RockPaperScissorApp.App/obj/Debug/net6.0/RockPaperScissorApp.App.dll
+/Users/osaiyen/Projects/RockPaperScissorAppApp/RockPaperScissorApp.App/obj/Debug/net6.0/ref/RockPaperScissorApp.App.dll
+/Users/osaiyen/Projects/RockPaperScissorAppApp/RockPaperScissorApp.App/obj/Debug/net6.0/RockPaperScissorApp.App.pdb
+/Users/osaiyen/Projects/RockPaperScissorAppApp/RockPaperScissorApp.App/obj/Debug/net6.0/RockPaperScissorApp.App.genruntimeconfig.cache
