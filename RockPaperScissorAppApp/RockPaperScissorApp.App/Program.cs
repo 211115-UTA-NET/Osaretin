@@ -24,11 +24,32 @@ namespace RockPaperScissorsApp.App
         public static void Main()
         {
             Console.WriteLine("Welcome to RockPaperScissors App");
-            Console.WriteLine("Enter your name to beging");
+            Console.WriteLine("Enter 1 for one player. Enter 2 for two Player ");
 
-            string name = (Console.ReadLine());
 
+           int numOfPlayer =Int32.Parse(Console.ReadLine());
+
+            string name = "";
+            string name2 = "";
+
+            if (numOfPlayer == 1)
+            {
+                Console.WriteLine("Enter your name to beging");
+                name = Console.ReadLine();
+            }
+            else if(numOfPlayer == 2)
+            {
+                Console.WriteLine("Enter  Player 1 name and press enter");
+                name = Console.ReadLine();
+                Console.WriteLine("Enter  Player 2 name and press enter");
+                name2 = Console.ReadLine();
+
+            }
+
+           
             var game = new Game(name);
+            var game2 = new Game(name, name2);
+
 
             while (true)
             {
@@ -39,7 +60,11 @@ namespace RockPaperScissorsApp.App
 
                 if (input != "y") { break; }
 
-                game.PlayRound();
+                if (numOfPlayer == 1)
+                    game.PlayRound();
+                else if (numOfPlayer == 2)
+                    game2.PlayRound();
+
             }
 
             string summary = game.Summary;

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/SSD/RockPaperScissorAppApp/RockPaperScissorApp.App/RockPaperScissorApp.App.csproj",
+      "projectUniqueName": "/Users/osaiyen/Desktop/RockPaperScissorAppApp/RockPaperScissorApp.App/RockPaperScissorApp.App.csproj",
       "projectName": "RockPaperScissorApp.App",
-      "projectPath": "/Volumes/SSD/RockPaperScissorAppApp/RockPaperScissorApp.App/RockPaperScissorApp.App.csproj",
+      "projectPath": "/Users/osaiyen/Desktop/RockPaperScissorAppApp/RockPaperScissorApp.App/RockPaperScissorApp.App.csproj",
       "packagesPath": "/Users/osaiyen/.nuget/packages/",
-      "outputPath": "/Volumes/SSD/RockPaperScissorAppApp/RockPaperScissorApp.App/obj/",
+      "outputPath": "/Users/osaiyen/Desktop/RockPaperScissorAppApp/RockPaperScissorApp.App/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/osaiyen/.config/NuGet/NuGet.Config"

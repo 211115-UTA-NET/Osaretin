@@ -3,25 +3,41 @@ namespace RockPaperScissorsApp.App
 {
     public class Game
     {
+        private string Player;
+        private string Player2;
+        private int gamecount = 0;
+        private int gameswon = 0;
+        private int gameLost = 0;
+        private int numofplayer = 1;
 
 
         public string Summary
         {
             get
             {
-                return "(not implemented yet)";
+                if (numofplayer == 1)
+                return Player + " Played "+gamecount+ " won "+gameswon +" and lost "+gameLost;
+                else
+                    return Player +" and "+Player2 + " Played " + gamecount + " Games. " + Player + " won "+gameswon + " and "+Player2 +" won "+ gameLost+ " games ";
+
             }
         }
-        public string Player;
 
 
-        public Game(string name)
+        public Game(string player1)
         {
             
-            this.Player = name;
+            this.Player = player1;
         }
 
+        public Game(string player1Name, string player2Name)
+        {
 
+            this.Player = player1Name;
+            this.Player2 = player2Name;
+            numofplayer = 2;
+
+        }
 
         public string RockPaperScisGenerator()
         {
@@ -61,12 +77,22 @@ namespace RockPaperScissorsApp.App
 
             string winner = "";
 
-            if (player  == cpu)
+            if (player == cpu)
                 winner = "Tie";
-            else if (player == "Rock" && cpu == "scissors" || player =="Paper" && cpu == "Rock" || player == "scissors" && cpu == "Paper")
-                winner = Player +" Won!";
-            else 
+            else if (player == "Rock" && cpu == "scissors" || player == "Paper" && cpu == "Rock" || player == "scissors" && cpu == "Paper")
+            {
+                winner = Player + " Won!";
+                gameswon++;
+            }
+            else
+            {
+                if(numofplayer == 1)
                 winner = "You lost and CPU won!";
+                else
+                winner = Player2+" won!";
+                gameLost++;
+            }
+            
 
             return  winner;
             
@@ -74,20 +100,46 @@ namespace RockPaperScissorsApp.App
         }
         public void PlayRound()
         {
-            Console.WriteLine("Welecome" + Player);
+
+            string playerAns = "";
+            string player2Ans = "";
+            string CPU = "";
             Console.WriteLine("Press 1 for Rock");
             Console.WriteLine("Press 2 for Paper");
             Console.WriteLine("Press 3 for scissors");
 
-            string playerAns = getPlayerResponse(Int32.Parse(Console.ReadLine()));
+            try
+            {
+                if (numofplayer == 1)
+                {
+                    Console.WriteLine(Player + " Enter a number");
+                    playerAns = getPlayerResponse(Int32.Parse(Console.ReadLine()));
+                    CPU = RockPaperScisGenerator();
+                    Console.WriteLine("You Selected " + playerAns + " and CPU selected " + CPU);
+                    Console.WriteLine(getTheWinner(playerAns, CPU));
 
-            string CPU = RockPaperScisGenerator();
+                }
 
-            Console.WriteLine("You Selected " + playerAns + " and CPU selected " + CPU);
+                else if (numofplayer == 2)
+                {
+                    Console.WriteLine(Player + " Enter a number");
+                    playerAns = getPlayerResponse(Int32.Parse(Console.ReadLine()));
+                    Console.WriteLine(Player2 + " Enter a number");
+                    player2Ans = getPlayerResponse(Int32.Parse(Console.ReadLine()));
+                    Console.WriteLine(Player + " selected " + playerAns + " and " + Player2 + " selected " + player2Ans);
+                    Console.WriteLine(getTheWinner(playerAns, player2Ans));
 
-            Console.WriteLine(getTheWinner(playerAns, CPU));
-            
+                }
+            }
+            catch (Exception ex)
+            {
 
+                Console.WriteLine(ex.Message);
+                return;
+
+            }
+
+            gamecount++;
 
 
 
